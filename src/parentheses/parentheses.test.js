@@ -1,3 +1,4 @@
+/* eslint-disable strict */
 const match = require("./parentheses");
 
 describe("Parentheses", () => {
